@@ -61,3 +61,5 @@ Step-by-step guides to unlock profile achievements:
 | **Pair Extraordinaire** | Coauthored commits on merged PRs (1 → 10 → 24 → 48) |
 
 **Full guide:** **[GITHUB-BADGES-GUIDE.md](./GITHUB-BADGES-GUIDE.md)** — Quickdraw, Pull Shark, YOLO, Starstruck, Public Sponsor, Galaxy Brain, and how achievements help your profile.
+
+<!-- Quickdraw: close this PR within 5 min -->
