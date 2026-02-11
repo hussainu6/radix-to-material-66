@@ -43,3 +43,21 @@ Use **this repo** to get coauthored commits on merged PRs and unlock the badge (
 4. On GitHub: open a PR from that branch → merge = **48 coauthored commits (GOLD)**.
 
 Full steps and options: **[PAIR-EXTRAORDINAIRE.md](./PAIR-EXTRAORDINAIRE.md)**.
+
+---
+
+## GitHub Badges (Achievements)
+
+Step-by-step guides to unlock profile achievements:
+
+| Badge | How to unlock |
+|-------|----------------|
+| **Quickdraw** | Create an issue → wait 10s → close it |
+| **Pull Shark** | Merge 2 pull requests (create repo, edit README, open PR, merge ×2) |
+| **YOLO** | Merge a PR **without** requesting a review |
+| **Starstruck** | Get 16+ stars on a repository |
+| **Public Sponsor** | Sponsor another user (GitHub Sponsors) |
+| **Galaxy Brain** | Get 2 accepted answers in Discussions |
+| **Pair Extraordinaire** | Coauthored commits on merged PRs (1 → 10 → 24 → 48) |
+
+**Full guide:** **[GITHUB-BADGES-GUIDE.md](./GITHUB-BADGES-GUIDE.md)** — Quickdraw, Pull Shark, YOLO, Starstruck, Public Sponsor, Galaxy Brain, and how achievements help your profile.
