@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Material 3 CSS variables - set by theme editor */
+    --md-primary: #6750a4;
+    --md-on-primary: #ffffff;
+    --md-primary-container: #eaddfb;
+    --md-on-primary-container: #21005d;
+    --md-secondary: #625b71;
+    --md-on-secondary: #ffffff;
+    --md-secondary-container: #e8def8;
+    --md-on-secondary-container: #1d192b;
+    --md-tertiary: #7d5260;
+    --md-on-tertiary: #ffffff;
+    --md-surface: #fffbfe;
+    --md-on-surface: #1c1b1f;
+    --md-surface-variant: #e7e0ec;
+    --md-on-surface-variant: #49454f;
+    --md-outline: #79747e;
+    --md-error: #b3261e;
+    --md-on-error: #ffffff;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
